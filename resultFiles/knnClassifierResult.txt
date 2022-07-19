@@ -1,0 +1,33 @@
+RESULT OF KNN ALGORITHM
+
+Classification report for KNN:
+
+              precision    recall  f1-score   support
+
+           0       0.73      0.62      0.67       197
+           1       0.68      0.78      0.73       203
+
+    accuracy                           0.70       400
+   macro avg       0.71      0.70      0.70       400
+weighted avg       0.71      0.70      0.70       400
+
+-------------------------------------------------------
+Accuraccy score for training set: 81.32%
+Accuraccy score for test set: 70.25%
+-------------------------------------------------------
+Knn with tuned parameter
+ 
+Classification report for KNN:
+
+              precision    recall  f1-score   support
+
+           0       0.72      0.71      0.71       197
+           1       0.72      0.74      0.73       203
+
+    accuracy                           0.72       400
+   macro avg       0.72      0.72      0.72       400
+weighted avg       0.72      0.72      0.72       400
+
+-------------------------------------------------------
+Accuraccy score for training set: 75.31%
+Accuraccy score for test set: 72.25%

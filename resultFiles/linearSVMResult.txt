@@ -1,0 +1,19 @@
+RESULT OF LINEAR SUPPORT VECTOR MACHINE ALGORITHM
+
+Cross validation average test score: 74.73%
+--------------------------------------------------------------------------------------------------------------
+Linear Support Vector Machine classification report: 
+
+              precision    recall  f1-score   support
+
+           0       0.70      0.74      0.72       185
+           1       0.76      0.73      0.75       215
+
+    accuracy                           0.73       400
+   macro avg       0.73      0.74      0.73       400
+weighted avg       0.74      0.73      0.74       400
+-------------------------------------------------------
+Linear Support Vector Machine algorithm score 
+
+Accuraccy score for training set: 74.65%
+Accuraccy score for test set: 73.5%

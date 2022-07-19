@@ -1,0 +1,15 @@
+RESULT OF RANDOM FORREST ALGORITHM
+
+Accuracy score for training set: 95.19999999999999%
+Accuracy score for test set: 80.2%
+
+Classification report:
+
+               precision    recall  f1-score   support
+
+         Bad       0.81      0.75      0.78       185
+        Good       0.80      0.85      0.82       215
+
+    accuracy                           0.80       400
+   macro avg       0.80      0.80      0.80       400
+weighted avg       0.80      0.80      0.80       400

@@ -1,0 +1,8 @@
+   fixed acidity  volatile acidity  citric acid  ...  sulphates  alcohol  quality
+0            7.4              0.70         0.00  ...       0.56      9.4      bad
+1            7.8              0.88         0.00  ...       0.68      9.8      bad
+2            7.8              0.76         0.04  ...       0.65      9.8      bad
+3           11.2              0.28         0.56  ...       0.58      9.8     good
+4            7.4              0.70         0.00  ...       0.56      9.4      bad
+
+[5 rows x 12 columns]

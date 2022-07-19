@@ -1,0 +1,8 @@
+RESULT OF PRINCIPAL COMPONENT ANALYSIS
+
+       PC 1      PC 2 quality
+0 -1.619530  0.450950     bad
+1 -0.799170  1.856553     bad
+2 -0.748479  0.882039     bad
+3  2.357673 -0.269976    good
+4 -1.619530  0.450950     bad

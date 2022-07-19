@@ -1,0 +1,17 @@
+RESULT OF LOGISTIC REGRESSION ALGORITHM
+
+Accuracy score for training set: 74.8%
+Accuracy score for test set: 74.1%
+Cross validation score for this model: [0.671875   0.7375     0.759375   0.75       0.74294671]
+Accuracy score for training set after CV: 74.8%
+-------------------------------------------------------
+Classification report:
+
+               precision    recall  f1-score   support
+
+         Bad       0.68      0.77      0.72       141
+        Good       0.80      0.72      0.76       179
+
+    accuracy                           0.74       320
+   macro avg       0.74      0.74      0.74       320
+weighted avg       0.75      0.74      0.74       320
